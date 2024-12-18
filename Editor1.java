@@ -7,7 +7,7 @@ import java.awt.Color;
  * a new image which is either the horizontally flipped version of the source image ("fh"),
  * or the vertically flipped version of the source image ("fv"), or the grayscaled version of the
  * source image ("gs"). For example, to create a grayscale version of thor.ppm, use:
- * java Editor1 thor.ppm gs
+ * java Editor1 thor.ppm 
  */
 public class Editor1 {
 
